@@ -1,0 +1,5 @@
+{"level":"error","message":"Validation error:"}
+{"level":"error","message":"Validation error:"}
+{"level":"error","message":"Validation error:","releaseYear":["The releaseYear must be a number."]}
+{"genre":["The genre field is required."],"level":"error","message":"Validation error:","releaseYear":["The releaseYear must be a number."]}
+{"genre":["The genre field is required."],"level":"error","message":"Validation error:","releaseYear":["The releaseYear must be a number."],"title":["The title field is required."]}
